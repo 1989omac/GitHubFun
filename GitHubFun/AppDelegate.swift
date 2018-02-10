@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Onique Mcfarlane on 2/10/18.
-//  Copyright © 2018 Onique Mcfarlane. All rights reserved.
-//
+
 
 import UIKit
 
